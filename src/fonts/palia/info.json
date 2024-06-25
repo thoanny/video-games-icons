@@ -1,0 +1,80 @@
+{
+  "block": {
+    "encodedCode": "\\ea01",
+    "prefix": "vgi-palia",
+    "className": "vgi-palia-block",
+    "unicode": "&#59905;"
+  },
+  "carret": {
+    "encodedCode": "\\ea02",
+    "prefix": "vgi-palia",
+    "className": "vgi-palia-carret",
+    "unicode": "&#59906;"
+  },
+  "change-server": {
+    "encodedCode": "\\ea03",
+    "prefix": "vgi-palia",
+    "className": "vgi-palia-change-server",
+    "unicode": "&#59907;"
+  },
+  "checkbox-checked": {
+    "encodedCode": "\\ea04",
+    "prefix": "vgi-palia",
+    "className": "vgi-palia-checkbox-checked",
+    "unicode": "&#59908;"
+  },
+  "checkbox-unchecked": {
+    "encodedCode": "\\ea05",
+    "prefix": "vgi-palia",
+    "className": "vgi-palia-checkbox-unchecked",
+    "unicode": "&#59909;"
+  },
+  "close-circle": {
+    "encodedCode": "\\ea06",
+    "prefix": "vgi-palia",
+    "className": "vgi-palia-close-circle",
+    "unicode": "&#59910;"
+  },
+  "close": {
+    "encodedCode": "\\ea07",
+    "prefix": "vgi-palia",
+    "className": "vgi-palia-close",
+    "unicode": "&#59911;"
+  },
+  "gift": {
+    "encodedCode": "\\ea08",
+    "prefix": "vgi-palia",
+    "className": "vgi-palia-gift",
+    "unicode": "&#59912;"
+  },
+  "muted": {
+    "encodedCode": "\\ea09",
+    "prefix": "vgi-palia",
+    "className": "vgi-palia-muted",
+    "unicode": "&#59913;"
+  },
+  "navigation": {
+    "encodedCode": "\\ea0a",
+    "prefix": "vgi-palia",
+    "className": "vgi-palia-navigation",
+    "unicode": "&#59914;"
+  },
+  "photo": {
+    "encodedCode": "\\ea0b",
+    "prefix": "vgi-palia",
+    "className": "vgi-palia-photo",
+    "unicode": "&#59915;"
+  },
+  "report": {
+    "encodedCode": "\\ea0c",
+    "prefix": "vgi-palia",
+    "className": "vgi-palia-report",
+    "unicode": "&#59916;"
+  },
+  "user-add": {
+    "encodedCode": "\\ea0d",
+    "prefix": "vgi-palia",
+    "className": "vgi-palia-user-add",
+    "unicode": "&#59917;"
+  }
+}

@@ -1,0 +1,158 @@
+{
+  "ancient-obelisk-r": {
+    "encodedCode": "\\ea01",
+    "prefix": "vgi-enshrouded",
+    "className": "vgi-enshrouded-ancient-obelisk-r",
+    "unicode": "&#59905;"
+  },
+  "ancient-obelisk": {
+    "encodedCode": "\\ea02",
+    "prefix": "vgi-enshrouded",
+    "className": "vgi-enshrouded-ancient-obelisk",
+    "unicode": "&#59906;"
+  },
+  "ancient-spire-r": {
+    "encodedCode": "\\ea03",
+    "prefix": "vgi-enshrouded",
+    "className": "vgi-enshrouded-ancient-spire-r",
+    "unicode": "&#59907;"
+  },
+  "ancient-spire": {
+    "encodedCode": "\\ea04",
+    "prefix": "vgi-enshrouded",
+    "className": "vgi-enshrouded-ancient-spire",
+    "unicode": "&#59908;"
+  },
+  "cave-r": {
+    "encodedCode": "\\ea05",
+    "prefix": "vgi-enshrouded",
+    "className": "vgi-enshrouded-cave-r",
+    "unicode": "&#59909;"
+  },
+  "cave": {
+    "encodedCode": "\\ea06",
+    "prefix": "vgi-enshrouded",
+    "className": "vgi-enshrouded-cave",
+    "unicode": "&#59910;"
+  },
+  "check": {
+    "encodedCode": "\\ea07",
+    "prefix": "vgi-enshrouded",
+    "className": "vgi-enshrouded-check",
+    "unicode": "&#59911;"
+  },
+  "circle-check": {
+    "encodedCode": "\\ea08",
+    "prefix": "vgi-enshrouded",
+    "className": "vgi-enshrouded-circle-check",
+    "unicode": "&#59912;"
+  },
+  "dungeon-r": {
+    "encodedCode": "\\ea09",
+    "prefix": "vgi-enshrouded",
+    "className": "vgi-enshrouded-dungeon-r",
+    "unicode": "&#59913;"
+  },
+  "dungeon": {
+    "encodedCode": "\\ea0a",
+    "prefix": "vgi-enshrouded",
+    "className": "vgi-enshrouded-dungeon",
+    "unicode": "&#59914;"
+  },
+  "elixir-well-r": {
+    "encodedCode": "\\ea0b",
+    "prefix": "vgi-enshrouded",
+    "className": "vgi-enshrouded-elixir-well-r",
+    "unicode": "&#59915;"
+  },
+  "elixir-well": {
+    "encodedCode": "\\ea0c",
+    "prefix": "vgi-enshrouded",
+    "className": "vgi-enshrouded-elixir-well",
+    "unicode": "&#59916;"
+  },
+  "enemy-camp-r": {
+    "encodedCode": "\\ea0d",
+    "prefix": "vgi-enshrouded",
+    "className": "vgi-enshrouded-enemy-camp-r",
+    "unicode": "&#59917;"
+  },
+  "enemy-camp": {
+    "encodedCode": "\\ea0e",
+    "prefix": "vgi-enshrouded",
+    "className": "vgi-enshrouded-enemy-camp",
+    "unicode": "&#59918;"
+  },
+  "flame-r": {
+    "encodedCode": "\\ea0f",
+    "prefix": "vgi-enshrouded",
+    "className": "vgi-enshrouded-flame-r",
+    "unicode": "&#59919;"
+  },
+  "flame-shrine-r": {
+    "encodedCode": "\\ea10",
+    "prefix": "vgi-enshrouded",
+    "className": "vgi-enshrouded-flame-shrine-r",
+    "unicode": "&#59920;"
+  },
+  "flame-shrine": {
+    "encodedCode": "\\ea11",
+    "prefix": "vgi-enshrouded",
+    "className": "vgi-enshrouded-flame-shrine",
+    "unicode": "&#59921;"
+  },
+  "flame": {
+    "encodedCode": "\\ea12",
+    "prefix": "vgi-enshrouded",
+    "className": "vgi-enshrouded-flame",
+    "unicode": "&#59922;"
+  },
+  "hollow-hall-r": {
+    "encodedCode": "\\ea13",
+    "prefix": "vgi-enshrouded",
+    "className": "vgi-enshrouded-hollow-hall-r",
+    "unicode": "&#59923;"
+  },
+  "hollow-hall": {
+    "encodedCode": "\\ea14",
+    "prefix": "vgi-enshrouded",
+    "className": "vgi-enshrouded-hollow-hall",
+    "unicode": "&#59924;"
+  },
+  "mine-r": {
+    "encodedCode": "\\ea15",
+    "prefix": "vgi-enshrouded",
+    "className": "vgi-enshrouded-mine-r",
+    "unicode": "&#59925;"
+  },
+  "mine": {
+    "encodedCode": "\\ea16",
+    "prefix": "vgi-enshrouded",
+    "className": "vgi-enshrouded-mine",
+    "unicode": "&#59926;"
+  },
+  "survivor-camp-r": {
+    "encodedCode": "\\ea17",
+    "prefix": "vgi-enshrouded",
+    "className": "vgi-enshrouded-survivor-camp-r",
+    "unicode": "&#59927;"
+  },
+  "survivor-camp": {
+    "encodedCode": "\\ea18",
+    "prefix": "vgi-enshrouded",
+    "className": "vgi-enshrouded-survivor-camp",
+    "unicode": "&#59928;"
+  },
+  "tomb-r": {
+    "encodedCode": "\\ea19",
+    "prefix": "vgi-enshrouded",
+    "className": "vgi-enshrouded-tomb-r",
+    "unicode": "&#59929;"
+  },
+  "tomb": {
+    "encodedCode": "\\ea1a",
+    "prefix": "vgi-enshrouded",
+    "className": "vgi-enshrouded-tomb",
+    "unicode": "&#59930;"
+  }
+}

@@ -1,0 +1,32 @@
+@font-face {
+  font-family: "vgi-palia";
+  src: url('vgi-palia.eot?t=1719301331373'); /* IE9*/
+  src: url('vgi-palia.eot?t=1719301331373#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url("vgi-palia.woff2?t=1719301331373") format("woff2"),
+  url("vgi-palia.woff?t=1719301331373") format("woff"),
+  url('vgi-palia.ttf?t=1719301331373') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+*/
+  url('vgi-palia.svg?t=1719301331373#vgi-palia') format('svg'); /* iOS 4.1- */
+}
+
+[class^="vgi-palia-"], [class*=" vgi-palia-"] {
+  font-family: 'vgi-palia' !important;font-size: 1rem;
+  font-style:normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+
+.vgi-palia-block:before { content: "\ea01"; }
+.vgi-palia-carret:before { content: "\ea02"; }
+.vgi-palia-change-server:before { content: "\ea03"; }
+.vgi-palia-checkbox-checked:before { content: "\ea04"; }
+.vgi-palia-checkbox-unchecked:before { content: "\ea05"; }
+.vgi-palia-close-circle:before { content: "\ea06"; }
+.vgi-palia-close:before { content: "\ea07"; }
+.vgi-palia-gift:before { content: "\ea08"; }
+.vgi-palia-muted:before { content: "\ea09"; }
+.vgi-palia-navigation:before { content: "\ea0a"; }
+.vgi-palia-photo:before { content: "\ea0b"; }
+.vgi-palia-report:before { content: "\ea0c"; }
+.vgi-palia-user-add:before { content: "\ea0d"; }
+

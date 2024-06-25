@@ -1,0 +1,36 @@
+@font-face {font-family: "vgi-genshin";
+  src: url('vgi-genshin.eot?t=1719301314921'); /* IE9*/
+  src: url('vgi-genshin.eot?t=1719301314921#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url("vgi-genshin.woff2?t=1719301314921") format("woff2"),
+  url("vgi-genshin.woff?t=1719301314921") format("woff"),
+  url('vgi-genshin.ttf?t=1719301314921') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+*/
+  url('vgi-genshin.svg?t=1719301314921#vgi-genshin') format('svg'); /* iOS 4.1- */
+}
+
+[class^="vgi-genshin-"], [class*=" vgi-genshin-"] {
+  font-family: 'vgi-genshin' !important;font-size: 1rem;
+  font-style:normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.vgi-genshin-achievements:before { content: "\ea01"; }
+.vgi-genshin-adventurer-guide:before { content: "\ea02"; }
+.vgi-genshin-bestiary:before { content: "\ea03"; }
+.vgi-genshin-characters:before { content: "\ea04"; }
+.vgi-genshin-events:before { content: "\ea05"; }
+.vgi-genshin-items:before { content: "\ea06"; }
+.vgi-genshin-map:before { content: "\ea07"; }
+.vgi-genshin-tcg:before { content: "\ea08"; }
+.vgi-genshin-version-highlights:before { content: "\ea09"; }
+
+$vgi-genshin-achievements: "\ea01";
+$vgi-genshin-adventurer-guide: "\ea02";
+$vgi-genshin-bestiary: "\ea03";
+$vgi-genshin-characters: "\ea04";
+$vgi-genshin-events: "\ea05";
+$vgi-genshin-items: "\ea06";
+$vgi-genshin-map: "\ea07";
+$vgi-genshin-tcg: "\ea08";
+$vgi-genshin-version-highlights: "\ea09";
+

@@ -1,0 +1,56 @@
+{
+  "achievements": {
+    "encodedCode": "\\ea01",
+    "prefix": "vgi-genshin",
+    "className": "vgi-genshin-achievements",
+    "unicode": "&#59905;"
+  },
+  "adventurer-guide": {
+    "encodedCode": "\\ea02",
+    "prefix": "vgi-genshin",
+    "className": "vgi-genshin-adventurer-guide",
+    "unicode": "&#59906;"
+  },
+  "bestiary": {
+    "encodedCode": "\\ea03",
+    "prefix": "vgi-genshin",
+    "className": "vgi-genshin-bestiary",
+    "unicode": "&#59907;"
+  },
+  "characters": {
+    "encodedCode": "\\ea04",
+    "prefix": "vgi-genshin",
+    "className": "vgi-genshin-characters",
+    "unicode": "&#59908;"
+  },
+  "events": {
+    "encodedCode": "\\ea05",
+    "prefix": "vgi-genshin",
+    "className": "vgi-genshin-events",
+    "unicode": "&#59909;"
+  },
+  "items": {
+    "encodedCode": "\\ea06",
+    "prefix": "vgi-genshin",
+    "className": "vgi-genshin-items",
+    "unicode": "&#59910;"
+  },
+  "map": {
+    "encodedCode": "\\ea07",
+    "prefix": "vgi-genshin",
+    "className": "vgi-genshin-map",
+    "unicode": "&#59911;"
+  },
+  "tcg": {
+    "encodedCode": "\\ea08",
+    "prefix": "vgi-genshin",
+    "className": "vgi-genshin-tcg",
+    "unicode": "&#59912;"
+  },
+  "version-highlights": {
+    "encodedCode": "\\ea09",
+    "prefix": "vgi-genshin",
+    "className": "vgi-genshin-version-highlights",
+    "unicode": "&#59913;"
+  }
+}
