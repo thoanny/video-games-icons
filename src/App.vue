@@ -74,6 +74,7 @@ const items = ref([
         modal
         :header="currentIcon.icon?.className"
         :dismissableMask="true"
+        :draggable="false"
         :style="{ width: '25rem' }"
     >
         <div
@@ -83,8 +84,9 @@ const items = ref([
         </div>
         <div class="grid grid-cols-2 gap-2 mt-5">
             <Button
-                label="HTML"
+                label="HTML code"
                 icon="pi pi-clipboard"
+                outlined
                 @click="
                     copyToClipboard(
                         `<span class=&quot;${currentIcon.icon?.className}&quot;></span>`,
@@ -93,23 +95,27 @@ const items = ref([
                 "
             />
             <Button
-                label="Class"
+                label="CSS Class"
                 icon="pi pi-clipboard"
+                outlined
                 @click="copyToClipboard(currentIcon.icon?.className, 'CSS class')"
             />
             <Button
-                label="Unicode"
+                :label="currentIcon.icon?.encodedCode"
                 icon="pi pi-clipboard"
+                outlined
                 @click="copyToClipboard(currentIcon.icon?.encodedCode, 'Unicode')"
             />
             <Button
-                label="HTML char"
+                :label="currentIcon.icon?.unicode"
                 icon="pi pi-clipboard"
+                outlined
                 @click="copyToClipboard(currentIcon.icon?.unicode, 'HTML character')"
             />
             <Button
-                label="SVG"
+                label="SVG code"
                 icon="pi pi-clipboard"
+                outlined
                 @click="copyToClipboard(currentIcon.content, 'SVG code')"
             />
             <a
@@ -117,7 +123,7 @@ const items = ref([
                 :download="`${currentIcon.icon?.className}.svg`"
                 class="flex flex-col"
             >
-                <Button label="SVG" icon="pi pi-download" />
+                <Button label="SVG file" icon="pi pi-download" outlined />
             </a>
         </div>
     </Dialog>
@@ -171,7 +177,12 @@ const items = ref([
 
     <div class="container mx-auto relative px-4">
         <div v-for="{ name, icons, id } in data" :key="id" class="pt-28" :id="id">
-            <h2 class="text-4xl font-bold text-[#93C045] mb-6">{{ name }}</h2>
+            <h2 class="text-4xl font-bold text-[#93C045] mb-6">
+                {{ name }}
+                <small class="text-2xl text-surface-400 font-semibold"
+                    >({{ Object.keys(icons).length }} icons)</small
+                >
+            </h2>
             <div
                 class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 xl:grid-cols-6 2xl:grid-cols-8 gap-6"
             >

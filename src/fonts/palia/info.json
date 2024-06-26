@@ -1,80 +1,302 @@
 {
-  "block": {
+  "achievements": {
     "encodedCode": "\\ea01",
     "prefix": "vgi-palia",
-    "className": "vgi-palia-block",
+    "className": "vgi-palia-achievements",
     "unicode": "&#59905;"
   },
-  "carret": {
+  "arrow": {
     "encodedCode": "\\ea02",
     "prefix": "vgi-palia",
-    "className": "vgi-palia-carret",
+    "className": "vgi-palia-arrow",
     "unicode": "&#59906;"
   },
-  "change-server": {
+  "bag": {
     "encodedCode": "\\ea03",
     "prefix": "vgi-palia",
-    "className": "vgi-palia-change-server",
+    "className": "vgi-palia-bag",
     "unicode": "&#59907;"
   },
-  "checkbox-checked": {
+  "block": {
     "encodedCode": "\\ea04",
     "prefix": "vgi-palia",
-    "className": "vgi-palia-checkbox-checked",
+    "className": "vgi-palia-block",
     "unicode": "&#59908;"
   },
-  "checkbox-unchecked": {
+  "carret": {
     "encodedCode": "\\ea05",
     "prefix": "vgi-palia",
-    "className": "vgi-palia-checkbox-unchecked",
+    "className": "vgi-palia-carret",
     "unicode": "&#59909;"
   },
-  "close-circle": {
+  "change-server": {
     "encodedCode": "\\ea06",
     "prefix": "vgi-palia",
-    "className": "vgi-palia-close-circle",
+    "className": "vgi-palia-change-server",
     "unicode": "&#59910;"
   },
-  "close": {
+  "chat": {
     "encodedCode": "\\ea07",
     "prefix": "vgi-palia",
-    "className": "vgi-palia-close",
+    "className": "vgi-palia-chat",
     "unicode": "&#59911;"
   },
-  "gift": {
+  "checkbox-checked": {
     "encodedCode": "\\ea08",
     "prefix": "vgi-palia",
-    "className": "vgi-palia-gift",
+    "className": "vgi-palia-checkbox-checked",
     "unicode": "&#59912;"
   },
-  "muted": {
+  "checkbox-unchecked": {
     "encodedCode": "\\ea09",
     "prefix": "vgi-palia",
-    "className": "vgi-palia-muted",
+    "className": "vgi-palia-checkbox-unchecked",
     "unicode": "&#59913;"
   },
-  "navigation": {
+  "close-circle": {
     "encodedCode": "\\ea0a",
     "prefix": "vgi-palia",
-    "className": "vgi-palia-navigation",
+    "className": "vgi-palia-close-circle",
     "unicode": "&#59914;"
   },
-  "photo": {
+  "close": {
     "encodedCode": "\\ea0b",
     "prefix": "vgi-palia",
-    "className": "vgi-palia-photo",
+    "className": "vgi-palia-close",
     "unicode": "&#59915;"
   },
-  "report": {
+  "collections": {
     "encodedCode": "\\ea0c",
     "prefix": "vgi-palia",
-    "className": "vgi-palia-report",
+    "className": "vgi-palia-collections",
     "unicode": "&#59916;"
   },
-  "user-add": {
+  "community-add": {
     "encodedCode": "\\ea0d",
     "prefix": "vgi-palia",
-    "className": "vgi-palia-user-add",
+    "className": "vgi-palia-community-add",
     "unicode": "&#59917;"
+  },
+  "community": {
+    "encodedCode": "\\ea0e",
+    "prefix": "vgi-palia",
+    "className": "vgi-palia-community",
+    "unicode": "&#59918;"
+  },
+  "concentration": {
+    "encodedCode": "\\ea0f",
+    "prefix": "vgi-palia",
+    "className": "vgi-palia-concentration",
+    "unicode": "&#59919;"
+  },
+  "congrats": {
+    "encodedCode": "\\ea10",
+    "prefix": "vgi-palia",
+    "className": "vgi-palia-congrats",
+    "unicode": "&#59920;"
+  },
+  "escape": {
+    "encodedCode": "\\ea11",
+    "prefix": "vgi-palia",
+    "className": "vgi-palia-escape",
+    "unicode": "&#59921;"
+  },
+  "friends-alt": {
+    "encodedCode": "\\ea12",
+    "prefix": "vgi-palia",
+    "className": "vgi-palia-friends-alt",
+    "unicode": "&#59922;"
+  },
+  "friends": {
+    "encodedCode": "\\ea13",
+    "prefix": "vgi-palia",
+    "className": "vgi-palia-friends",
+    "unicode": "&#59923;"
+  },
+  "gifts": {
+    "encodedCode": "\\ea14",
+    "prefix": "vgi-palia",
+    "className": "vgi-palia-gifts",
+    "unicode": "&#59924;"
+  },
+  "give": {
+    "encodedCode": "\\ea15",
+    "prefix": "vgi-palia",
+    "className": "vgi-palia-give",
+    "unicode": "&#59925;"
+  },
+  "group": {
+    "encodedCode": "\\ea16",
+    "prefix": "vgi-palia",
+    "className": "vgi-palia-group",
+    "unicode": "&#59926;"
+  },
+  "handshake": {
+    "encodedCode": "\\ea17",
+    "prefix": "vgi-palia",
+    "className": "vgi-palia-handshake",
+    "unicode": "&#59927;"
+  },
+  "heart-double": {
+    "encodedCode": "\\ea18",
+    "prefix": "vgi-palia",
+    "className": "vgi-palia-heart-double",
+    "unicode": "&#59928;"
+  },
+  "home-pin": {
+    "encodedCode": "\\ea19",
+    "prefix": "vgi-palia",
+    "className": "vgi-palia-home-pin",
+    "unicode": "&#59929;"
+  },
+  "hourglass": {
+    "encodedCode": "\\ea1a",
+    "prefix": "vgi-palia",
+    "className": "vgi-palia-hourglass",
+    "unicode": "&#59930;"
+  },
+  "interogation": {
+    "encodedCode": "\\ea1b",
+    "prefix": "vgi-palia",
+    "className": "vgi-palia-interogation",
+    "unicode": "&#59931;"
+  },
+  "inventory": {
+    "encodedCode": "\\ea1c",
+    "prefix": "vgi-palia",
+    "className": "vgi-palia-inventory",
+    "unicode": "&#59932;"
+  },
+  "map": {
+    "encodedCode": "\\ea1d",
+    "prefix": "vgi-palia",
+    "className": "vgi-palia-map",
+    "unicode": "&#59933;"
+  },
+  "message": {
+    "encodedCode": "\\ea1e",
+    "prefix": "vgi-palia",
+    "className": "vgi-palia-message",
+    "unicode": "&#59934;"
+  },
+  "muted": {
+    "encodedCode": "\\ea1f",
+    "prefix": "vgi-palia",
+    "className": "vgi-palia-muted",
+    "unicode": "&#59935;"
+  },
+  "navigation": {
+    "encodedCode": "\\ea20",
+    "prefix": "vgi-palia",
+    "className": "vgi-palia-navigation",
+    "unicode": "&#59936;"
+  },
+  "news": {
+    "encodedCode": "\\ea21",
+    "prefix": "vgi-palia",
+    "className": "vgi-palia-news",
+    "unicode": "&#59937;"
+  },
+  "pet": {
+    "encodedCode": "\\ea22",
+    "prefix": "vgi-palia",
+    "className": "vgi-palia-pet",
+    "unicode": "&#59938;"
+  },
+  "photo": {
+    "encodedCode": "\\ea23",
+    "prefix": "vgi-palia",
+    "className": "vgi-palia-photo",
+    "unicode": "&#59939;"
+  },
+  "pin": {
+    "encodedCode": "\\ea24",
+    "prefix": "vgi-palia",
+    "className": "vgi-palia-pin",
+    "unicode": "&#59940;"
+  },
+  "quests": {
+    "encodedCode": "\\ea25",
+    "prefix": "vgi-palia",
+    "className": "vgi-palia-quests",
+    "unicode": "&#59941;"
+  },
+  "relations": {
+    "encodedCode": "\\ea26",
+    "prefix": "vgi-palia",
+    "className": "vgi-palia-relations",
+    "unicode": "&#59942;"
+  },
+  "report": {
+    "encodedCode": "\\ea27",
+    "prefix": "vgi-palia",
+    "className": "vgi-palia-report",
+    "unicode": "&#59943;"
+  },
+  "reputation": {
+    "encodedCode": "\\ea28",
+    "prefix": "vgi-palia",
+    "className": "vgi-palia-reputation",
+    "unicode": "&#59944;"
+  },
+  "requests": {
+    "encodedCode": "\\ea29",
+    "prefix": "vgi-palia",
+    "className": "vgi-palia-requests",
+    "unicode": "&#59945;"
+  },
+  "server": {
+    "encodedCode": "\\ea2a",
+    "prefix": "vgi-palia",
+    "className": "vgi-palia-server",
+    "unicode": "&#59946;"
+  },
+  "shop": {
+    "encodedCode": "\\ea2b",
+    "prefix": "vgi-palia",
+    "className": "vgi-palia-shop",
+    "unicode": "&#59947;"
+  },
+  "store": {
+    "encodedCode": "\\ea2c",
+    "prefix": "vgi-palia",
+    "className": "vgi-palia-store",
+    "unicode": "&#59948;"
+  },
+  "thumbsup-double": {
+    "encodedCode": "\\ea2d",
+    "prefix": "vgi-palia",
+    "className": "vgi-palia-thumbsup-double",
+    "unicode": "&#59949;"
+  },
+  "thumbsup": {
+    "encodedCode": "\\ea2e",
+    "prefix": "vgi-palia",
+    "className": "vgi-palia-thumbsup",
+    "unicode": "&#59950;"
+  },
+  "time": {
+    "encodedCode": "\\ea2f",
+    "prefix": "vgi-palia",
+    "className": "vgi-palia-time",
+    "unicode": "&#59951;"
+  },
+  "trash": {
+    "encodedCode": "\\ea30",
+    "prefix": "vgi-palia",
+    "className": "vgi-palia-trash",
+    "unicode": "&#59952;"
+  },
+  "upgrade": {
+    "encodedCode": "\\ea31",
+    "prefix": "vgi-palia",
+    "className": "vgi-palia-upgrade",
+    "unicode": "&#59953;"
+  },
+  "user-add": {
+    "encodedCode": "\\ea32",
+    "prefix": "vgi-palia",
+    "className": "vgi-palia-user-add",
+    "unicode": "&#59954;"
   }
 }

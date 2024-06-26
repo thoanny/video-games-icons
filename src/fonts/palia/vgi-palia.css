@@ -1,11 +1,11 @@
 @font-face {
   font-family: "vgi-palia";
-  src: url('vgi-palia.eot?t=1719301331373'); /* IE9*/
-  src: url('vgi-palia.eot?t=1719301331373#iefix') format('embedded-opentype'), /* IE6-IE8 */
-  url("vgi-palia.woff2?t=1719301331373") format("woff2"),
-  url("vgi-palia.woff?t=1719301331373") format("woff"),
-  url('vgi-palia.ttf?t=1719301331373') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+*/
-  url('vgi-palia.svg?t=1719301331373#vgi-palia') format('svg'); /* iOS 4.1- */
+  src: url('vgi-palia.eot?t=1719403761635'); /* IE9*/
+  src: url('vgi-palia.eot?t=1719403761635#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url("vgi-palia.woff2?t=1719403761635") format("woff2"),
+  url("vgi-palia.woff?t=1719403761635") format("woff"),
+  url('vgi-palia.ttf?t=1719403761635') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+*/
+  url('vgi-palia.svg?t=1719403761635#vgi-palia') format('svg'); /* iOS 4.1- */
 }
 
 [class^="vgi-palia-"], [class*=" vgi-palia-"] {
@@ -16,17 +16,54 @@
 }
 
 
-.vgi-palia-block:before { content: "\ea01"; }
-.vgi-palia-carret:before { content: "\ea02"; }
-.vgi-palia-change-server:before { content: "\ea03"; }
-.vgi-palia-checkbox-checked:before { content: "\ea04"; }
-.vgi-palia-checkbox-unchecked:before { content: "\ea05"; }
-.vgi-palia-close-circle:before { content: "\ea06"; }
-.vgi-palia-close:before { content: "\ea07"; }
-.vgi-palia-gift:before { content: "\ea08"; }
-.vgi-palia-muted:before { content: "\ea09"; }
-.vgi-palia-navigation:before { content: "\ea0a"; }
-.vgi-palia-photo:before { content: "\ea0b"; }
-.vgi-palia-report:before { content: "\ea0c"; }
-.vgi-palia-user-add:before { content: "\ea0d"; }
+.vgi-palia-achievements:before { content: "\ea01"; }
+.vgi-palia-arrow:before { content: "\ea02"; }
+.vgi-palia-bag:before { content: "\ea03"; }
+.vgi-palia-block:before { content: "\ea04"; }
+.vgi-palia-carret:before { content: "\ea05"; }
+.vgi-palia-change-server:before { content: "\ea06"; }
+.vgi-palia-chat:before { content: "\ea07"; }
+.vgi-palia-checkbox-checked:before { content: "\ea08"; }
+.vgi-palia-checkbox-unchecked:before { content: "\ea09"; }
+.vgi-palia-close-circle:before { content: "\ea0a"; }
+.vgi-palia-close:before { content: "\ea0b"; }
+.vgi-palia-collections:before { content: "\ea0c"; }
+.vgi-palia-community-add:before { content: "\ea0d"; }
+.vgi-palia-community:before { content: "\ea0e"; }
+.vgi-palia-concentration:before { content: "\ea0f"; }
+.vgi-palia-congrats:before { content: "\ea10"; }
+.vgi-palia-escape:before { content: "\ea11"; }
+.vgi-palia-friends-alt:before { content: "\ea12"; }
+.vgi-palia-friends:before { content: "\ea13"; }
+.vgi-palia-gifts:before { content: "\ea14"; }
+.vgi-palia-give:before { content: "\ea15"; }
+.vgi-palia-group:before { content: "\ea16"; }
+.vgi-palia-handshake:before { content: "\ea17"; }
+.vgi-palia-heart-double:before { content: "\ea18"; }
+.vgi-palia-home-pin:before { content: "\ea19"; }
+.vgi-palia-hourglass:before { content: "\ea1a"; }
+.vgi-palia-interogation:before { content: "\ea1b"; }
+.vgi-palia-inventory:before { content: "\ea1c"; }
+.vgi-palia-map:before { content: "\ea1d"; }
+.vgi-palia-message:before { content: "\ea1e"; }
+.vgi-palia-muted:before { content: "\ea1f"; }
+.vgi-palia-navigation:before { content: "\ea20"; }
+.vgi-palia-news:before { content: "\ea21"; }
+.vgi-palia-pet:before { content: "\ea22"; }
+.vgi-palia-photo:before { content: "\ea23"; }
+.vgi-palia-pin:before { content: "\ea24"; }
+.vgi-palia-quests:before { content: "\ea25"; }
+.vgi-palia-relations:before { content: "\ea26"; }
+.vgi-palia-report:before { content: "\ea27"; }
+.vgi-palia-reputation:before { content: "\ea28"; }
+.vgi-palia-requests:before { content: "\ea29"; }
+.vgi-palia-server:before { content: "\ea2a"; }
+.vgi-palia-shop:before { content: "\ea2b"; }
+.vgi-palia-store:before { content: "\ea2c"; }
+.vgi-palia-thumbsup-double:before { content: "\ea2d"; }
+.vgi-palia-thumbsup:before { content: "\ea2e"; }
+.vgi-palia-time:before { content: "\ea2f"; }
+.vgi-palia-trash:before { content: "\ea30"; }
+.vgi-palia-upgrade:before { content: "\ea31"; }
+.vgi-palia-user-add:before { content: "\ea32"; }
 
