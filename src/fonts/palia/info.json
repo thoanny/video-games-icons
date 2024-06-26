@@ -23,280 +23,328 @@
     "className": "vgi-palia-block",
     "unicode": "&#59908;"
   },
-  "carret": {
+  "bug": {
     "encodedCode": "\\ea05",
     "prefix": "vgi-palia",
-    "className": "vgi-palia-carret",
+    "className": "vgi-palia-bug",
     "unicode": "&#59909;"
   },
-  "change-server": {
+  "carret": {
     "encodedCode": "\\ea06",
     "prefix": "vgi-palia",
-    "className": "vgi-palia-change-server",
+    "className": "vgi-palia-carret",
     "unicode": "&#59910;"
   },
-  "chat": {
+  "change-server": {
     "encodedCode": "\\ea07",
     "prefix": "vgi-palia",
-    "className": "vgi-palia-chat",
+    "className": "vgi-palia-change-server",
     "unicode": "&#59911;"
   },
-  "checkbox-checked": {
+  "chat": {
     "encodedCode": "\\ea08",
     "prefix": "vgi-palia",
-    "className": "vgi-palia-checkbox-checked",
+    "className": "vgi-palia-chat",
     "unicode": "&#59912;"
   },
-  "checkbox-unchecked": {
+  "checkbox-checked": {
     "encodedCode": "\\ea09",
     "prefix": "vgi-palia",
-    "className": "vgi-palia-checkbox-unchecked",
+    "className": "vgi-palia-checkbox-checked",
     "unicode": "&#59913;"
   },
-  "close-circle": {
+  "checkbox-unchecked": {
     "encodedCode": "\\ea0a",
     "prefix": "vgi-palia",
-    "className": "vgi-palia-close-circle",
+    "className": "vgi-palia-checkbox-unchecked",
     "unicode": "&#59914;"
   },
-  "close": {
+  "close-circle": {
     "encodedCode": "\\ea0b",
     "prefix": "vgi-palia",
-    "className": "vgi-palia-close",
+    "className": "vgi-palia-close-circle",
     "unicode": "&#59915;"
   },
-  "collections": {
+  "close": {
     "encodedCode": "\\ea0c",
     "prefix": "vgi-palia",
-    "className": "vgi-palia-collections",
+    "className": "vgi-palia-close",
     "unicode": "&#59916;"
   },
-  "community-add": {
+  "collections": {
     "encodedCode": "\\ea0d",
     "prefix": "vgi-palia",
-    "className": "vgi-palia-community-add",
+    "className": "vgi-palia-collections",
     "unicode": "&#59917;"
   },
-  "community": {
+  "community-add": {
     "encodedCode": "\\ea0e",
     "prefix": "vgi-palia",
-    "className": "vgi-palia-community",
+    "className": "vgi-palia-community-add",
     "unicode": "&#59918;"
   },
-  "concentration": {
+  "community": {
     "encodedCode": "\\ea0f",
     "prefix": "vgi-palia",
-    "className": "vgi-palia-concentration",
+    "className": "vgi-palia-community",
     "unicode": "&#59919;"
   },
-  "congrats": {
+  "concentration": {
     "encodedCode": "\\ea10",
     "prefix": "vgi-palia",
-    "className": "vgi-palia-congrats",
+    "className": "vgi-palia-concentration",
     "unicode": "&#59920;"
   },
-  "escape": {
+  "congrats": {
     "encodedCode": "\\ea11",
     "prefix": "vgi-palia",
-    "className": "vgi-palia-escape",
+    "className": "vgi-palia-congrats",
     "unicode": "&#59921;"
   },
-  "friends-alt": {
+  "cooking": {
     "encodedCode": "\\ea12",
     "prefix": "vgi-palia",
-    "className": "vgi-palia-friends-alt",
+    "className": "vgi-palia-cooking",
     "unicode": "&#59922;"
   },
-  "friends": {
+  "escape": {
     "encodedCode": "\\ea13",
     "prefix": "vgi-palia",
-    "className": "vgi-palia-friends",
+    "className": "vgi-palia-escape",
     "unicode": "&#59923;"
   },
-  "gifts": {
+  "fishing": {
     "encodedCode": "\\ea14",
     "prefix": "vgi-palia",
-    "className": "vgi-palia-gifts",
+    "className": "vgi-palia-fishing",
     "unicode": "&#59924;"
   },
-  "give": {
+  "foraging": {
     "encodedCode": "\\ea15",
     "prefix": "vgi-palia",
-    "className": "vgi-palia-give",
+    "className": "vgi-palia-foraging",
     "unicode": "&#59925;"
   },
-  "group": {
+  "friends-alt": {
     "encodedCode": "\\ea16",
     "prefix": "vgi-palia",
-    "className": "vgi-palia-group",
+    "className": "vgi-palia-friends-alt",
     "unicode": "&#59926;"
   },
-  "handshake": {
+  "friends": {
     "encodedCode": "\\ea17",
     "prefix": "vgi-palia",
-    "className": "vgi-palia-handshake",
+    "className": "vgi-palia-friends",
     "unicode": "&#59927;"
   },
-  "heart-double": {
+  "furniture": {
     "encodedCode": "\\ea18",
     "prefix": "vgi-palia",
-    "className": "vgi-palia-heart-double",
+    "className": "vgi-palia-furniture",
     "unicode": "&#59928;"
   },
-  "home-pin": {
+  "gardening": {
     "encodedCode": "\\ea19",
     "prefix": "vgi-palia",
-    "className": "vgi-palia-home-pin",
+    "className": "vgi-palia-gardening",
     "unicode": "&#59929;"
   },
-  "hourglass": {
+  "gifts": {
     "encodedCode": "\\ea1a",
     "prefix": "vgi-palia",
-    "className": "vgi-palia-hourglass",
+    "className": "vgi-palia-gifts",
     "unicode": "&#59930;"
   },
-  "interogation": {
+  "give": {
     "encodedCode": "\\ea1b",
     "prefix": "vgi-palia",
-    "className": "vgi-palia-interogation",
+    "className": "vgi-palia-give",
     "unicode": "&#59931;"
   },
-  "inventory": {
+  "group": {
     "encodedCode": "\\ea1c",
     "prefix": "vgi-palia",
-    "className": "vgi-palia-inventory",
+    "className": "vgi-palia-group",
     "unicode": "&#59932;"
   },
-  "map": {
+  "handshake": {
     "encodedCode": "\\ea1d",
     "prefix": "vgi-palia",
-    "className": "vgi-palia-map",
+    "className": "vgi-palia-handshake",
     "unicode": "&#59933;"
   },
-  "message": {
+  "heart-double": {
     "encodedCode": "\\ea1e",
     "prefix": "vgi-palia",
-    "className": "vgi-palia-message",
+    "className": "vgi-palia-heart-double",
     "unicode": "&#59934;"
   },
-  "muted": {
+  "home-pin": {
     "encodedCode": "\\ea1f",
     "prefix": "vgi-palia",
-    "className": "vgi-palia-muted",
+    "className": "vgi-palia-home-pin",
     "unicode": "&#59935;"
   },
-  "navigation": {
+  "hourglass": {
     "encodedCode": "\\ea20",
     "prefix": "vgi-palia",
-    "className": "vgi-palia-navigation",
+    "className": "vgi-palia-hourglass",
     "unicode": "&#59936;"
   },
-  "news": {
+  "hunting": {
     "encodedCode": "\\ea21",
     "prefix": "vgi-palia",
-    "className": "vgi-palia-news",
+    "className": "vgi-palia-hunting",
     "unicode": "&#59937;"
   },
-  "pet": {
+  "interogation": {
     "encodedCode": "\\ea22",
     "prefix": "vgi-palia",
-    "className": "vgi-palia-pet",
+    "className": "vgi-palia-interogation",
     "unicode": "&#59938;"
   },
-  "photo": {
+  "inventory": {
     "encodedCode": "\\ea23",
     "prefix": "vgi-palia",
-    "className": "vgi-palia-photo",
+    "className": "vgi-palia-inventory",
     "unicode": "&#59939;"
   },
-  "pin": {
+  "map": {
     "encodedCode": "\\ea24",
     "prefix": "vgi-palia",
-    "className": "vgi-palia-pin",
+    "className": "vgi-palia-map",
     "unicode": "&#59940;"
   },
-  "quests": {
+  "message": {
     "encodedCode": "\\ea25",
     "prefix": "vgi-palia",
-    "className": "vgi-palia-quests",
+    "className": "vgi-palia-message",
     "unicode": "&#59941;"
   },
-  "relations": {
+  "mining": {
     "encodedCode": "\\ea26",
     "prefix": "vgi-palia",
-    "className": "vgi-palia-relations",
+    "className": "vgi-palia-mining",
     "unicode": "&#59942;"
   },
-  "report": {
+  "muted": {
     "encodedCode": "\\ea27",
     "prefix": "vgi-palia",
-    "className": "vgi-palia-report",
+    "className": "vgi-palia-muted",
     "unicode": "&#59943;"
   },
-  "reputation": {
+  "navigation": {
     "encodedCode": "\\ea28",
     "prefix": "vgi-palia",
-    "className": "vgi-palia-reputation",
+    "className": "vgi-palia-navigation",
     "unicode": "&#59944;"
   },
-  "requests": {
+  "news": {
     "encodedCode": "\\ea29",
     "prefix": "vgi-palia",
-    "className": "vgi-palia-requests",
+    "className": "vgi-palia-news",
     "unicode": "&#59945;"
   },
-  "server": {
+  "pet": {
     "encodedCode": "\\ea2a",
     "prefix": "vgi-palia",
-    "className": "vgi-palia-server",
+    "className": "vgi-palia-pet",
     "unicode": "&#59946;"
   },
-  "shop": {
+  "photo": {
     "encodedCode": "\\ea2b",
     "prefix": "vgi-palia",
-    "className": "vgi-palia-shop",
+    "className": "vgi-palia-photo",
     "unicode": "&#59947;"
   },
-  "store": {
+  "pin": {
     "encodedCode": "\\ea2c",
     "prefix": "vgi-palia",
-    "className": "vgi-palia-store",
+    "className": "vgi-palia-pin",
     "unicode": "&#59948;"
   },
-  "thumbsup-double": {
+  "quests": {
     "encodedCode": "\\ea2d",
     "prefix": "vgi-palia",
-    "className": "vgi-palia-thumbsup-double",
+    "className": "vgi-palia-quests",
     "unicode": "&#59949;"
   },
-  "thumbsup": {
+  "relations": {
     "encodedCode": "\\ea2e",
     "prefix": "vgi-palia",
-    "className": "vgi-palia-thumbsup",
+    "className": "vgi-palia-relations",
     "unicode": "&#59950;"
   },
-  "time": {
+  "report": {
     "encodedCode": "\\ea2f",
     "prefix": "vgi-palia",
-    "className": "vgi-palia-time",
+    "className": "vgi-palia-report",
     "unicode": "&#59951;"
   },
-  "trash": {
+  "reputation": {
     "encodedCode": "\\ea30",
     "prefix": "vgi-palia",
-    "className": "vgi-palia-trash",
+    "className": "vgi-palia-reputation",
     "unicode": "&#59952;"
   },
-  "upgrade": {
+  "requests": {
     "encodedCode": "\\ea31",
     "prefix": "vgi-palia",
-    "className": "vgi-palia-upgrade",
+    "className": "vgi-palia-requests",
     "unicode": "&#59953;"
   },
-  "user-add": {
+  "server": {
     "encodedCode": "\\ea32",
     "prefix": "vgi-palia",
-    "className": "vgi-palia-user-add",
+    "className": "vgi-palia-server",
     "unicode": "&#59954;"
+  },
+  "shop": {
+    "encodedCode": "\\ea33",
+    "prefix": "vgi-palia",
+    "className": "vgi-palia-shop",
+    "unicode": "&#59955;"
+  },
+  "store": {
+    "encodedCode": "\\ea34",
+    "prefix": "vgi-palia",
+    "className": "vgi-palia-store",
+    "unicode": "&#59956;"
+  },
+  "thumbsup-double": {
+    "encodedCode": "\\ea35",
+    "prefix": "vgi-palia",
+    "className": "vgi-palia-thumbsup-double",
+    "unicode": "&#59957;"
+  },
+  "thumbsup": {
+    "encodedCode": "\\ea36",
+    "prefix": "vgi-palia",
+    "className": "vgi-palia-thumbsup",
+    "unicode": "&#59958;"
+  },
+  "time": {
+    "encodedCode": "\\ea37",
+    "prefix": "vgi-palia",
+    "className": "vgi-palia-time",
+    "unicode": "&#59959;"
+  },
+  "trash": {
+    "encodedCode": "\\ea38",
+    "prefix": "vgi-palia",
+    "className": "vgi-palia-trash",
+    "unicode": "&#59960;"
+  },
+  "upgrade": {
+    "encodedCode": "\\ea39",
+    "prefix": "vgi-palia",
+    "className": "vgi-palia-upgrade",
+    "unicode": "&#59961;"
+  },
+  "user-add": {
+    "encodedCode": "\\ea3a",
+    "prefix": "vgi-palia",
+    "className": "vgi-palia-user-add",
+    "unicode": "&#59962;"
   }
 }
