@@ -1,11 +1,11 @@
 @font-face {
   font-family: "vgi-enshrouded";
-  src: url('vgi-enshrouded.eot?t=1719306656154'); /* IE9*/
-  src: url('vgi-enshrouded.eot?t=1719306656154#iefix') format('embedded-opentype'), /* IE6-IE8 */
-  url("vgi-enshrouded.woff2?t=1719306656154") format("woff2"),
-  url("vgi-enshrouded.woff?t=1719306656154") format("woff"),
-  url('vgi-enshrouded.ttf?t=1719306656154') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+*/
-  url('vgi-enshrouded.svg?t=1719306656154#vgi-enshrouded') format('svg'); /* iOS 4.1- */
+  src: url('vgi-enshrouded.eot?t=1746867870326'); /* IE9*/
+  src: url('vgi-enshrouded.eot?t=1746867870326#iefix') format('embedded-opentype') /* IE6-IE8 */,
+  url('vgi-enshrouded.woff2?t=1746867870326') format('woff2'),
+  url('vgi-enshrouded.woff?t=1746867870326') format('woff'),
+  url('vgi-enshrouded.ttf?t=1746867870326') format('truetype'),
+  url('vgi-enshrouded.svg?t=1746867870326') format('svg');
 }
 
 [class^="vgi-enshrouded-"], [class*=" vgi-enshrouded-"] {
@@ -16,30 +16,31 @@
 }
 
 
-.vgi-enshrouded-ancient-obelisk-r:before { content: "\ea01"; }
-.vgi-enshrouded-ancient-obelisk:before { content: "\ea02"; }
-.vgi-enshrouded-ancient-spire-r:before { content: "\ea03"; }
-.vgi-enshrouded-ancient-spire:before { content: "\ea04"; }
-.vgi-enshrouded-cave-r:before { content: "\ea05"; }
-.vgi-enshrouded-cave:before { content: "\ea06"; }
-.vgi-enshrouded-check:before { content: "\ea07"; }
-.vgi-enshrouded-circle-check:before { content: "\ea08"; }
-.vgi-enshrouded-dungeon-r:before { content: "\ea09"; }
-.vgi-enshrouded-dungeon:before { content: "\ea0a"; }
-.vgi-enshrouded-elixir-well-r:before { content: "\ea0b"; }
-.vgi-enshrouded-elixir-well:before { content: "\ea0c"; }
-.vgi-enshrouded-enemy-camp-r:before { content: "\ea0d"; }
-.vgi-enshrouded-enemy-camp:before { content: "\ea0e"; }
-.vgi-enshrouded-flame-r:before { content: "\ea0f"; }
-.vgi-enshrouded-flame-shrine-r:before { content: "\ea10"; }
-.vgi-enshrouded-flame-shrine:before { content: "\ea11"; }
-.vgi-enshrouded-flame:before { content: "\ea12"; }
-.vgi-enshrouded-hollow-hall-r:before { content: "\ea13"; }
-.vgi-enshrouded-hollow-hall:before { content: "\ea14"; }
-.vgi-enshrouded-mine-r:before { content: "\ea15"; }
-.vgi-enshrouded-mine:before { content: "\ea16"; }
-.vgi-enshrouded-survivor-camp-r:before { content: "\ea17"; }
-.vgi-enshrouded-survivor-camp:before { content: "\ea18"; }
-.vgi-enshrouded-tomb-r:before { content: "\ea19"; }
-.vgi-enshrouded-tomb:before { content: "\ea1a"; }
+.vgi-enshrouded-ancient-obelisk-r::before { content: "\ea01"; }
+.vgi-enshrouded-ancient-obelisk::before { content: "\ea02"; }
+.vgi-enshrouded-ancient-spire-r::before { content: "\ea03"; }
+.vgi-enshrouded-ancient-spire::before { content: "\ea04"; }
+.vgi-enshrouded-cave-r::before { content: "\ea05"; }
+.vgi-enshrouded-cave::before { content: "\ea06"; }
+.vgi-enshrouded-check::before { content: "\ea07"; }
+.vgi-enshrouded-circle-check::before { content: "\ea08"; }
+.vgi-enshrouded-dungeon-r::before { content: "\ea09"; }
+.vgi-enshrouded-dungeon::before { content: "\ea0a"; }
+.vgi-enshrouded-elixir-well-r::before { content: "\ea0b"; }
+.vgi-enshrouded-elixir-well::before { content: "\ea0c"; }
+.vgi-enshrouded-enemy-camp-r::before { content: "\ea0d"; }
+.vgi-enshrouded-enemy-camp::before { content: "\ea0e"; }
+.vgi-enshrouded-flame-r::before { content: "\ea0f"; }
+.vgi-enshrouded-flame-shrine-r::before { content: "\ea10"; }
+.vgi-enshrouded-flame-shrine::before { content: "\ea11"; }
+.vgi-enshrouded-flame::before { content: "\ea12"; }
+.vgi-enshrouded-hollow-hall-r::before { content: "\ea13"; }
+.vgi-enshrouded-hollow-hall::before { content: "\ea14"; }
+.vgi-enshrouded-mine-r::before { content: "\ea15"; }
+.vgi-enshrouded-mine::before { content: "\ea16"; }
+.vgi-enshrouded-survivor-camp-r::before { content: "\ea17"; }
+.vgi-enshrouded-survivor-camp::before { content: "\ea18"; }
+.vgi-enshrouded-tomb-r::before { content: "\ea19"; }
+.vgi-enshrouded-tomb::before { content: "\ea1a"; }
+
 

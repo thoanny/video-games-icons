@@ -1,11 +1,11 @@
 @font-face {
   font-family: "vgi-palia";
-  src: url('vgi-palia.eot?t=1719412208858'); /* IE9*/
-  src: url('vgi-palia.eot?t=1719412208858#iefix') format('embedded-opentype'), /* IE6-IE8 */
-  url("vgi-palia.woff2?t=1719412208858") format("woff2"),
-  url("vgi-palia.woff?t=1719412208858") format("woff"),
-  url('vgi-palia.ttf?t=1719412208858') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+*/
-  url('vgi-palia.svg?t=1719412208858#vgi-palia') format('svg'); /* iOS 4.1- */
+  src: url('vgi-palia.eot?t=1746867871572'); /* IE9*/
+  src: url('vgi-palia.eot?t=1746867871572#iefix') format('embedded-opentype') /* IE6-IE8 */,
+  url('vgi-palia.woff2?t=1746867871572') format('woff2'),
+  url('vgi-palia.woff?t=1746867871572') format('woff'),
+  url('vgi-palia.ttf?t=1746867871572') format('truetype'),
+  url('vgi-palia.svg?t=1746867871572') format('svg');
 }
 
 [class^="vgi-palia-"], [class*=" vgi-palia-"] {
@@ -16,62 +16,63 @@
 }
 
 
-.vgi-palia-achievements:before { content: "\ea01"; }
-.vgi-palia-arrow:before { content: "\ea02"; }
-.vgi-palia-bag:before { content: "\ea03"; }
-.vgi-palia-block:before { content: "\ea04"; }
-.vgi-palia-bug:before { content: "\ea05"; }
-.vgi-palia-carret:before { content: "\ea06"; }
-.vgi-palia-change-server:before { content: "\ea07"; }
-.vgi-palia-chat:before { content: "\ea08"; }
-.vgi-palia-checkbox-checked:before { content: "\ea09"; }
-.vgi-palia-checkbox-unchecked:before { content: "\ea0a"; }
-.vgi-palia-close-circle:before { content: "\ea0b"; }
-.vgi-palia-close:before { content: "\ea0c"; }
-.vgi-palia-collections:before { content: "\ea0d"; }
-.vgi-palia-community-add:before { content: "\ea0e"; }
-.vgi-palia-community:before { content: "\ea0f"; }
-.vgi-palia-concentration:before { content: "\ea10"; }
-.vgi-palia-congrats:before { content: "\ea11"; }
-.vgi-palia-cooking:before { content: "\ea12"; }
-.vgi-palia-escape:before { content: "\ea13"; }
-.vgi-palia-fishing:before { content: "\ea14"; }
-.vgi-palia-foraging:before { content: "\ea15"; }
-.vgi-palia-friends-alt:before { content: "\ea16"; }
-.vgi-palia-friends:before { content: "\ea17"; }
-.vgi-palia-furniture:before { content: "\ea18"; }
-.vgi-palia-gardening:before { content: "\ea19"; }
-.vgi-palia-gifts:before { content: "\ea1a"; }
-.vgi-palia-give:before { content: "\ea1b"; }
-.vgi-palia-group:before { content: "\ea1c"; }
-.vgi-palia-handshake:before { content: "\ea1d"; }
-.vgi-palia-heart-double:before { content: "\ea1e"; }
-.vgi-palia-home-pin:before { content: "\ea1f"; }
-.vgi-palia-hourglass:before { content: "\ea20"; }
-.vgi-palia-hunting:before { content: "\ea21"; }
-.vgi-palia-interogation:before { content: "\ea22"; }
-.vgi-palia-inventory:before { content: "\ea23"; }
-.vgi-palia-map:before { content: "\ea24"; }
-.vgi-palia-message:before { content: "\ea25"; }
-.vgi-palia-mining:before { content: "\ea26"; }
-.vgi-palia-muted:before { content: "\ea27"; }
-.vgi-palia-navigation:before { content: "\ea28"; }
-.vgi-palia-news:before { content: "\ea29"; }
-.vgi-palia-pet:before { content: "\ea2a"; }
-.vgi-palia-photo:before { content: "\ea2b"; }
-.vgi-palia-pin:before { content: "\ea2c"; }
-.vgi-palia-quests:before { content: "\ea2d"; }
-.vgi-palia-relations:before { content: "\ea2e"; }
-.vgi-palia-report:before { content: "\ea2f"; }
-.vgi-palia-reputation:before { content: "\ea30"; }
-.vgi-palia-requests:before { content: "\ea31"; }
-.vgi-palia-server:before { content: "\ea32"; }
-.vgi-palia-shop:before { content: "\ea33"; }
-.vgi-palia-store:before { content: "\ea34"; }
-.vgi-palia-thumbsup-double:before { content: "\ea35"; }
-.vgi-palia-thumbsup:before { content: "\ea36"; }
-.vgi-palia-time:before { content: "\ea37"; }
-.vgi-palia-trash:before { content: "\ea38"; }
-.vgi-palia-upgrade:before { content: "\ea39"; }
-.vgi-palia-user-add:before { content: "\ea3a"; }
+.vgi-palia-achievements::before { content: "\ea01"; }
+.vgi-palia-arrow::before { content: "\ea02"; }
+.vgi-palia-bag::before { content: "\ea03"; }
+.vgi-palia-block::before { content: "\ea04"; }
+.vgi-palia-bug::before { content: "\ea05"; }
+.vgi-palia-carret::before { content: "\ea06"; }
+.vgi-palia-change-server::before { content: "\ea07"; }
+.vgi-palia-chat::before { content: "\ea08"; }
+.vgi-palia-checkbox-checked::before { content: "\ea09"; }
+.vgi-palia-checkbox-unchecked::before { content: "\ea0a"; }
+.vgi-palia-close-circle::before { content: "\ea0b"; }
+.vgi-palia-close::before { content: "\ea0c"; }
+.vgi-palia-collections::before { content: "\ea0d"; }
+.vgi-palia-community-add::before { content: "\ea0e"; }
+.vgi-palia-community::before { content: "\ea0f"; }
+.vgi-palia-concentration::before { content: "\ea10"; }
+.vgi-palia-congrats::before { content: "\ea11"; }
+.vgi-palia-cooking::before { content: "\ea12"; }
+.vgi-palia-escape::before { content: "\ea13"; }
+.vgi-palia-fishing::before { content: "\ea14"; }
+.vgi-palia-foraging::before { content: "\ea15"; }
+.vgi-palia-friends-alt::before { content: "\ea16"; }
+.vgi-palia-friends::before { content: "\ea17"; }
+.vgi-palia-furniture::before { content: "\ea18"; }
+.vgi-palia-gardening::before { content: "\ea19"; }
+.vgi-palia-gifts::before { content: "\ea1a"; }
+.vgi-palia-give::before { content: "\ea1b"; }
+.vgi-palia-group::before { content: "\ea1c"; }
+.vgi-palia-handshake::before { content: "\ea1d"; }
+.vgi-palia-heart-double::before { content: "\ea1e"; }
+.vgi-palia-home-pin::before { content: "\ea1f"; }
+.vgi-palia-hourglass::before { content: "\ea20"; }
+.vgi-palia-hunting::before { content: "\ea21"; }
+.vgi-palia-interogation::before { content: "\ea22"; }
+.vgi-palia-inventory::before { content: "\ea23"; }
+.vgi-palia-map::before { content: "\ea24"; }
+.vgi-palia-message::before { content: "\ea25"; }
+.vgi-palia-mining::before { content: "\ea26"; }
+.vgi-palia-muted::before { content: "\ea27"; }
+.vgi-palia-navigation::before { content: "\ea28"; }
+.vgi-palia-news::before { content: "\ea29"; }
+.vgi-palia-pet::before { content: "\ea2a"; }
+.vgi-palia-photo::before { content: "\ea2b"; }
+.vgi-palia-pin::before { content: "\ea2c"; }
+.vgi-palia-quests::before { content: "\ea2d"; }
+.vgi-palia-relations::before { content: "\ea2e"; }
+.vgi-palia-report::before { content: "\ea2f"; }
+.vgi-palia-reputation::before { content: "\ea30"; }
+.vgi-palia-requests::before { content: "\ea31"; }
+.vgi-palia-server::before { content: "\ea32"; }
+.vgi-palia-shop::before { content: "\ea33"; }
+.vgi-palia-store::before { content: "\ea34"; }
+.vgi-palia-thumbsup-double::before { content: "\ea35"; }
+.vgi-palia-thumbsup::before { content: "\ea36"; }
+.vgi-palia-time::before { content: "\ea37"; }
+.vgi-palia-trash::before { content: "\ea38"; }
+.vgi-palia-upgrade::before { content: "\ea39"; }
+.vgi-palia-user-add::before { content: "\ea3a"; }
+
 

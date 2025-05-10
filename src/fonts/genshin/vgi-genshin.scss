@@ -1,10 +1,11 @@
-@font-face {font-family: "vgi-genshin";
-  src: url('vgi-genshin.eot?t=1719306643931'); /* IE9*/
-  src: url('vgi-genshin.eot?t=1719306643931#iefix') format('embedded-opentype'), /* IE6-IE8 */
-  url("vgi-genshin.woff2?t=1719306643931") format("woff2"),
-  url("vgi-genshin.woff?t=1719306643931") format("woff"),
-  url('vgi-genshin.ttf?t=1719306643931') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+*/
-  url('vgi-genshin.svg?t=1719306643931#vgi-genshin') format('svg'); /* iOS 4.1- */
+@font-face {
+  font-family: "vgi-genshin";
+  src: url('vgi-genshin.eot?t=1746867869059'); /* IE9*/
+  src: url('vgi-genshin.eot?t=1746867869059#iefix') format('embedded-opentype') /* IE6-IE8 */,
+  url('vgi-genshin.woff2?t=1746867869059') format('woff2'),
+  url('vgi-genshin.woff?t=1746867869059') format('woff'),
+  url('vgi-genshin.ttf?t=1746867869059') format('truetype'),
+  url('vgi-genshin.svg?t=1746867869059') format('svg');
 }
 
 [class^="vgi-genshin-"], [class*=" vgi-genshin-"] {
@@ -14,23 +15,24 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
-.vgi-genshin-achievements:before { content: "\ea01"; }
-.vgi-genshin-adventurer-guide:before { content: "\ea02"; }
-.vgi-genshin-bestiary:before { content: "\ea03"; }
-.vgi-genshin-characters:before { content: "\ea04"; }
-.vgi-genshin-events:before { content: "\ea05"; }
-.vgi-genshin-items:before { content: "\ea06"; }
-.vgi-genshin-map:before { content: "\ea07"; }
-.vgi-genshin-tcg:before { content: "\ea08"; }
-.vgi-genshin-version-highlights:before { content: "\ea09"; }
 
-$vgi-genshin-achievements: "\ea01";
-$vgi-genshin-adventurer-guide: "\ea02";
-$vgi-genshin-bestiary: "\ea03";
-$vgi-genshin-characters: "\ea04";
-$vgi-genshin-events: "\ea05";
-$vgi-genshin-items: "\ea06";
-$vgi-genshin-map: "\ea07";
-$vgi-genshin-tcg: "\ea08";
-$vgi-genshin-version-highlights: "\ea09";
+.vgi-genshin-achievements::before { content: "\ea01"; }
+.vgi-genshin-adventurer-guide::before { content: "\ea02"; }
+.vgi-genshin-bestiary::before { content: "\ea03"; }
+.vgi-genshin-characters::before { content: "\ea04"; }
+.vgi-genshin-events::before { content: "\ea05"; }
+.vgi-genshin-items::before { content: "\ea06"; }
+.vgi-genshin-map::before { content: "\ea07"; }
+.vgi-genshin-tcg::before { content: "\ea08"; }
+.vgi-genshin-version-highlights::before { content: "\ea09"; }
 
+
+$vgi-genshin-achievements: '\ea01';
+$vgi-genshin-adventurer-guide: '\ea02';
+$vgi-genshin-bestiary: '\ea03';
+$vgi-genshin-characters: '\ea04';
+$vgi-genshin-events: '\ea05';
+$vgi-genshin-items: '\ea06';
+$vgi-genshin-map: '\ea07';
+$vgi-genshin-tcg: '\ea08';
+$vgi-genshin-version-highlights: '\ea09';
